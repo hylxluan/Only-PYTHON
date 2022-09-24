@@ -1,1 +1,0 @@
-Neste curso, aprendi sobre os conceitos do Git/Github e sua importância no dia a dia do programador, apesar de seus mais diversos usos, e além de tudo, pondo em prática esses conceitos. 
